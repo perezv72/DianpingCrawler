@@ -1,2 +1,2 @@
 # Diangping Crawler
-The program takes crawls search results on Dianping (China's Yelp) and downloads all of the data from the website to a folder. The extract script takes basic business data from the results. 
+The program downloads search results on Dianping (China's Yelp) to the working directory. The extract script takes basic business data from the results. 
